@@ -12,10 +12,10 @@
     <dependencies>
         <dependency>
             <groupId>REVEAL</groupId>
-            <artifactId>ASIA</artifactId>
+            <artifactId>asia</artifactId>
             <version>1.0</version>
             <scope>system</scope>
-            <systemPath>${project.basedir}/lib/ASIA-1.0.jar</systemPath>
+            <systemPath>${project.basedir}/lib/asia.jar</systemPath>
         </dependency>
     </dependencies>
 
